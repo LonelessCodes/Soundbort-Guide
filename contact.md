@@ -1,6 +1,6 @@
 # Contact
 
-It is preferred to reach the developers on Github by opening an issue if you have a question, a bug or a feature suggestion. Read the [Contributing](contributing.md) page in that case.
+It is preferred to reach the developers on Github by opening an issue if you have a question, a bug or a feature suggestion. Read the [Contributing](guide/contributing.md) page in that case.
 
 I any other case feel free to hit a message.
 

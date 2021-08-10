@@ -1,10 +1,13 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [First Steps](first-steps.md)
-* [Server Guide](server-guide.md)
-* [Limitations](limitations.md)
-* [Contributing](contributing.md)
+
+## Guide
+
+* [First Steps](guide/first-steps.md)
+* [Server Guide](guide/server-guide.md)
+* [Limitations](guide/limitations.md)
+* [Contributing](guide/contributing.md)
 
 ## Links
 
