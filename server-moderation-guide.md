@@ -12,5 +12,5 @@ If you want to set your own moderator role, **you need to have this role Soundbo
 
 Every member who wants to add samples to or remove from the server soundboard has to have this role.
 
-That's it, you've now disallowed any non-moderator modification of the server's soundboard.
+That's it, you've now disallowed any non-moderator modification of the server's soundboard. 🎉 
 
