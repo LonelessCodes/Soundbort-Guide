@@ -7,6 +7,7 @@
 * [First Steps](guide/first-steps.md)
 * [Server Guide](guide/server-guide.md)
 * [Limitations](guide/limitations.md)
+* [FAQ](guide/faq.md)
 * [Contributing](guide/contributing.md)
 
 ## Links
