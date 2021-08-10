@@ -28,8 +28,6 @@ Be aware of the current upload limitations. You can view them on the [Limitation
 
 If all went well, Soundboard should tell you it was "successfully added".
 
-![Successfully added a new sample to your soundboard.](../.gitbook/assets/grafik%20%2812%29.png)
-
 {% hint style="warning" %}
 If you've encountered problems uploading your sample and Soundbort wasn't of much help resolving those issues, head over to [the Github](https://github.com/lonelesscodes/soundbort) and check for any already existing issues or open [a new issue](https://github.com/lonelesscodes/soundbort/issues).
 {% endhint %}
