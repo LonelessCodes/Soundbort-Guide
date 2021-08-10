@@ -14,4 +14,5 @@
 ---
 
 * [Changelog](changelog.md)
+* [Invite Soundbort Staging](https://discord.com/oauth2/authorize?client_id=869715767497740378&permissions=2150943808&scope=applications.commands%20bot)
 
