@@ -32,7 +32,7 @@ If all went well, Soundboard should tell you it was "successfully added".
 If you've encountered problems uploading your sample and Soundbort wasn't of much help resolving those issues, head over to [the Github](https://github.com/lonelesscodes/soundbort) and check for any already existing issues or open [a new issue](https://github.com/lonelesscodes/soundbort/issues).
 {% endhint %}
 
-Now you have added your first sample. Type `/list` again to see it pop up in the list and click on the button to play it back.
+Now you have added your first sample. Click "Play" to play it back. Type `/list` again to see it pop up in the list.
 
 By default `/upload` always adds samples to your personal soundboard. If you're interested in adding samples to your server soundboard, check out the next page [Server Guide](server-guide.md).
 
