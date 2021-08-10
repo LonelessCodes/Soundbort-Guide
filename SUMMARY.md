@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Server Moderation Guide](server-moderation-guide.md)
+* [First Steps](first-steps.md)
+* [Server Guide](server-guide.md)
+* [Limitations](limitations.md)
 * [Contributing](contributing.md)
 
 ## Links
