@@ -14,7 +14,7 @@
 
 * [Github](https://github.com/LonelessCodes/Soundbort)
 * [Invite Soundbort](https://discord.com/api/oauth2/authorize?client_id=868296331234521099&permissions=2150943808&scope=applications.commands%20bot)
-* [Invite Soundbort Staging](https://discord.com/oauth2/authorize?client_id=869715767497740378&permissions=2150943808&scope=applications.commands%20bot)
+* [Invite Soundbort Staging](https://discord.com/api/oauth2/authorize?client_id=869715767497740378&permissions=2150943744&scope=bot%20applications.commands)
 
 ---
 
