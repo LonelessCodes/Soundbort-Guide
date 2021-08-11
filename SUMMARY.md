@@ -18,6 +18,6 @@
 
 ---
 
-* [Contact](contact.md)
 * [Changelog](changelog.md)
+* [Contact](contact.md)
 
