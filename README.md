@@ -16,7 +16,7 @@ Soundbort offers three different collections of audio samples, _called soundboar
 
 * **The standard soundboard**, that's the same for everyone and a starting point if you haven't added your own samples yet
 * **Server soundboards**, that the moderators of a Discord server manage and all members of that server can play any sample of that soundboard
-* **And personal aka. user soundboards**, that are tied to a discord user and allows them to take their sound samples across servers with them.
+* **And personal aka. user soundboards**, that are tied to a discord user and allows them to take their sound samples with them across servers.
 
 If you're a server moderator and are interested in how to restrict modification to your server's soundboard, check out the [Server Moderation Guide ](guide/server-guide.md)page.
 
