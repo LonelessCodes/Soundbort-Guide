@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.3.0](https://github.com/LonelessCodes/SoundBort/compare/v0.2.1...v0.3.0) \(2021-08-16\)
+
+#### Features
+
+* add metrics/stats command \([da52a69](https://github.com/LonelessCodes/SoundBort/commit/da52a69400f837fd4204d0dd8efac8efdc0bbeb3)\)
+
+#### Bug Fixes
+
+* **Command.ts:** fixed error when replying to deffered interaction \([e31cea7](https://github.com/LonelessCodes/SoundBort/commit/e31cea7e01b3380498c7be46e50ab9a26970a9ab)\)
+
+#### Changes
+
+* added "buttons" fields to all db documents without one, so remove optional flag \([7faf1b9](https://github.com/LonelessCodes/SoundBort/commit/7faf1b91ce2bd37a244fa8e2f9ce942e926c26b8)\)
+
+### [0.2.1](https://github.com/LonelessCodes/SoundBort/compare/v0.2.0...v0.2.1) \(2021-08-14\)
+
+#### Bug Fixes
+
+* fixed wrong repo url in /getting-started command \([23192fe](https://github.com/LonelessCodes/SoundBort/commit/23192fec818b7eabb68c5dcccba274bb9f5b7596)\)
+
+#### Improvements
+
+* better error logging? \([2ef0fe4](https://github.com/LonelessCodes/SoundBort/commit/2ef0fe40419dc46e1a0ec416e5d4210a8456ff76)\)
+
 ## [0.2.0](https://github.com/LonelessCodes/SoundBort/compare/v0.1.1...v0.2.0) \(2021-08-14\)
 
 #### Features
