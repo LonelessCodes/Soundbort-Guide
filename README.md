@@ -4,7 +4,7 @@ description: A getting-started guide that will help you find your way around Sou
 
 # Getting Started
 
-![](.gitbook/assets/readme_banner.jpg)
+![](.gitbook/assets/readme\_banner.jpg)
 
 So you've chosen Soundbort. I hope you like your time with the bot!
 
@@ -19,4 +19,3 @@ Soundbort offers three different collections of audio samples, _called soundboar
 * **And personal aka. user soundboards**, that are tied to a discord user and allows them to take their sound samples with them across servers.
 
 If you're a server moderator and are interested in how to restrict modification to your server's soundboard, check out the [Server Moderation Guide ](guide/server-guide.md)page.
-

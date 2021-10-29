@@ -6,7 +6,6 @@ I any other case feel free to hit a message.
 
 Here is the list of the developers:
 
-| Title | Name | Discord | Email |
-| :--- | :--- | :--- | :--- |
-| Owner and main developer | Loneless | Loneless\#0893 | lonelessart@gmail.com |
-
+| Title                    | Name     | Discord       | Email                 |
+| ------------------------ | -------- | ------------- | --------------------- |
+| Owner and main developer | Loneless | Loneless#0893 | lonelessart@gmail.com |
