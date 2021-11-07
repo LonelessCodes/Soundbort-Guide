@@ -18,11 +18,11 @@ To log what commands have been triggered and buttons have been clicked: **Intera
 
 ### **For how long do you store it?**
 
-Admin role IDs and the associated server IDs are kept until the server admins delete them.
+Admin role IDs and the associated server IDs are kept for 14 days after Soundbort is removed from the server.
 
-Sound files are kept until a user deletes them, given they were added to the soundboard successfully. Otherwise they are instantly deleted.
+Sound files are kept until a user deletes them, given they were added to the soundboard successfully. Otherwise they are instantly deleted. Sound files and earned slots from the server soundboard are kept for 14 days after Soundbort is removed from the server.
 
-Logs of commands and button presses are kept for 30 days.
+Logs of commands, button presses and other interactions are kept for 30 days.
 
 ## How can I request deletion of my data?
 
