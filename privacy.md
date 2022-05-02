@@ -8,13 +8,13 @@ User IDs, Server IDs, Role IDs, Channel IDs, Message IDs, Interaction IDs, Attac
 
 ### **For what purpose(s) do you store the information you collect?**
 
-Setting an admin role for admin commands: **Role IDs **and **Server IDs **(only IDs, no names, creation dates, etc.)
+Setting an admin role for admin commands: **Role IDs** and **Server IDs** (only IDs, no names, creation dates, etc.)
 
-To keep track of the replies to interactions and later send follow-up messages: **Interaction IDs**, **Server IDs**, **Channel IDs**, **Message IDs **(only IDs, no names, etc.)
+To keep track of the replies to interactions and later send follow-up messages: **Interaction IDs**, **Server IDs**, **Channel IDs**, **Message IDs** (only IDs, no names, etc.)
 
-Custom user-uploaded sound files for the soundboards: **User IDs**, **Server IDs **(only IDs, no names, creation dates, etc.), **Attachment file** (only the file, no filename, etc.). **Media attachments are stripped of all metadata.**
+Custom user-uploaded sound files for the soundboards: **User IDs**, **Server IDs** (only IDs, no names, creation dates, etc.), **Attachment file** (only the file, no filename, etc.). **Media attachments are stripped of all metadata.**
 
-To log what commands have been triggered and buttons have been clicked: **Interaction IDs**, **Server IDs**, **Channel IDs**, **Channel Type** (dm, text, thread, etc.), **User IDs **(only IDs, no names, etc.)
+To log what commands have been triggered and buttons have been clicked: **Interaction IDs**, **Server IDs**, **Channel IDs**, **Channel Type** (dm, text, thread, etc.), **User IDs** (only IDs, no names, etc.)
 
 ### **For how long do you store it?**
 

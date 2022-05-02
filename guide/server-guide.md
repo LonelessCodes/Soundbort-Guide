@@ -8,7 +8,7 @@ When Soundbort joins a server, it tries to figure out what the moderator or admi
 
 ### Setting permissions
 
-If you want to set your own moderator role, **you need to have this role Soundbort chose automatically or admin priviledges **and type `/config set-admin-role` and choose from the list of roles it gives you, then hit enter. You can see what role Soundbort chose when it joined the server by typing `/config show-admin-role` .
+If you want to set your own moderator role, **you need to have this role Soundbort chose automatically or admin priviledges** and type `/config set-admin-role` and choose from the list of roles it gives you, then hit enter. You can see what role Soundbort chose when it joined the server by typing `/config show-admin-role` .
 
 ![Commands for setting and viewing the moderator/admin role.](../.gitbook/assets/grafik.png)
 
