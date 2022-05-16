@@ -9,7 +9,7 @@ Discord sets some limitations on how large a soundboard can be right now. Then s
 | Maximum samples in a soundboard | 10 default (up to 25 by upvoting the bot on [top.gg](https://top.gg/bot/868296331234521099)) |
 | ------------------------------- | -------------------------------------------------------------------------------------------- |
 | Maximum sample length           | 30 seconds default (longer soon)                                                             |
-| Maximum sample file size        | 4 MB default (up to 8 MB later)                                                              |
+| Maximum sample file size        | 8 MB                                                                                         |
 | Maximum sample name length      | 30 characters                                                                                |
 
 {% hint style="info" %}
