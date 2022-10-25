@@ -20,5 +20,6 @@
 ***
 
 * [Privacy](privacy.md)
+* [Terms of Service](terms-of-service.md)
 * [Changelog](changelog.md)
 * [Contact](contact.md)
